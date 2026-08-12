@@ -19,8 +19,6 @@ dependencies = [
 classifiers = [
   "Development Status :: 4 - Beta",
   "Framework :: Flask",
-  "Framework :: Flask :: 2",
-  "Framework :: Flask :: 3",
   "Programming Language :: Python :: 3",
   "Programming Language :: Python :: 3 :: Only",
 ]
